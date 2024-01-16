@@ -5,7 +5,7 @@
 - 📫 How to reach me :
    * [Discord](https://www.discord.com/users/1191639842069696636/)
    * [Telegram](https://t.me/amaninlab/)
-   * [![LinkedIn Logo](/linkedin.svg = 10*10) LinkedIn](https://www.linkedin.com/in/amaninlab/)
+   * [![LinkedIn Logo](/linkedin.svg | width="200" height="400" ) LinkedIn](https://www.linkedin.com/in/amaninlab/)
 
 
 - 😄 Pronouns: ...
